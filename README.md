@@ -2,7 +2,6 @@
 
 A full-stack discussion platform with nested comments, similar to Reddit, GitHub, or Medium. Built with React, Express.js, and TypeScript, featuring unlimited comment nesting, real-time interactions, and a modern, responsive design.
 
-![Discussion Thread System](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 ## 🚀 Features
 
@@ -59,8 +58,8 @@ A full-stack discussion platform with nested comments, similar to Reddit, GitHub
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd discussion-thread-system
+git clone [<repository-url>](https://github.com/yuvrajsingh833/Nested-Posts-comments.git)
+cd Nested-Posts-comments
 ```
 
 ### 2. Install Dependencies
